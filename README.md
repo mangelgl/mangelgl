@@ -11,11 +11,11 @@
 
 <h2>:bulb: Technologies</h2>
 <ul>
-  <li>MySQL databases</li>
-  <li>Scriptcase framework</li>
-  <li>Laravel and Symfony frameworks</li>
   <li>PHP</li>
-  <li>JavaScript and JQuery</li>
+  <li>Scriptcase</li>
+  <li>Laravel & Symfony</li>
+  <li>MySQL databases</li>
+  <li>JavaScript</li>
   <li>Python</li>  
 </ul>
 
