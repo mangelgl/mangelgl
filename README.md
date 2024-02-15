@@ -2,9 +2,7 @@
 
 <h1> 🙋‍♂️ Hi, there</h1>
 <p>My name is <strong>Miguel Ángel</strong> and I'm from Spain. I'm focused on <strong>back-end</strong> development<br>
-  I have studied SysAdmin, but my passion is programming and luckily I was able to find a job as a PHP developer.<br>
-  I'm currently working from home :house: on back-end projects with <strong>PHP</strong> and <strong>Scriptcase</strong>.<br>
-  I also trying to train me in other PHP frameworks like Laravel and Symfony.
+  I'm currently working from home :house:.
 </p>
 
 <hr/>
@@ -12,11 +10,10 @@
 <h2>:bulb: Technologies</h2>
 <ul>
   <li>PHP</li>
-  <li>Scriptcase</li>
-  <li>Laravel & Symfony</li>
-  <li>MySQL databases</li>
   <li>JavaScript</li>
-  <li>Python</li>  
+  <li>TypeScript</li>
+  <li>Python</li>
+  <li>Java</li>
 </ul>
 
 <hr/>
